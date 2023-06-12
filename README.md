@@ -7,5 +7,6 @@ You can click the Preview link to take a look at your changes.
 
 
 # Post
-[BookStudy - Clean Code. JavaScript](https://namnamiroo.tistory.com/category/Programming/%F0%9F%93%9A%20Book%20Study)
-[Semantic Web](https://namnamiroo.tistory.com/197)
+* [Book Study - Clean Code. JavaScript](https://namnamiroo.tistory.com/category/Programming/%F0%9F%93%9A%20Book%20Study)
+
+* [HTML과 Semantic Web](https://namnamiroo.tistory.com/197)
