@@ -7,6 +7,8 @@ You can click the Preview link to take a look at your changes.
 
 
 # Post
+* [[실무에서 필요했던 단단한 기초 시리즈] 분기처리에 사용하는 연산자 뽀개기 (feat. falsy, nullish, &&, ||, ??)](https://namnamiroo.tistory.com/229)
+
 * [Book Study - Clean Code. JavaScript](https://namnamiroo.tistory.com/category/Programming/%F0%9F%93%9A%20Book%20Study)
 
 * [HTML과 Semantic Web](https://namnamiroo.tistory.com/197)
